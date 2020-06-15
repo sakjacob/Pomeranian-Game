@@ -1,13 +1,11 @@
 ﻿  pch.cpp
-  Aquarium.cpp
+  Yard.cpp
   ChildView.cpp
   DecorCastle.cpp
-  Fish.cpp
-  FishBeta.cpp
-  FishMagikarp.cpp
-  FishSparty.cpp
+  Animal.cpp
   Item.cpp
   MainFrm.cpp
+  Pomeranian.cpp
   Step2.cpp
   XmlNode.cpp
   Generating Code...

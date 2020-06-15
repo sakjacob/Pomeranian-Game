@@ -6,11 +6,6 @@
 #define IDP_OLE_INIT_FAILED             100
 #define IDR_MAINFRAME                   128
 #define IDR_Step2TYPE                   130
-#define ID_ADDFISH                      32771
-#define ID_ADDFISH_BETAFISH             32772
-#define ID_ADDFISH_MAGIKARP             32773
-#define ID_ADDFISH_SPARTYFISH           32774
-#define ID_ADDFISH_STINKYFISH           32775
 #define ID_ADDDECOR_CASTLE              32776
 #define ID_FILE_SAVEAS                  32777
 #define ID_FILE_OPEN32778               32778
